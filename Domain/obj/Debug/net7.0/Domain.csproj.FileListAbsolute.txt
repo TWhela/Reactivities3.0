@@ -45,3 +45,15 @@ C:\Users\thoma\Documents\repos\Reactivities2.0\Domain\obj\Debug\net7.0\Domain.dl
 C:\Users\thoma\Documents\repos\Reactivities2.0\Domain\obj\Debug\net7.0\refint\Domain.dll
 C:\Users\thoma\Documents\repos\Reactivities2.0\Domain\obj\Debug\net7.0\Domain.pdb
 C:\Users\thoma\Documents\repos\Reactivities2.0\Domain\obj\Debug\net7.0\ref\Domain.dll
+C:\code\Reactivities3.0\Domain\bin\Debug\net7.0\Domain.deps.json
+C:\code\Reactivities3.0\Domain\bin\Debug\net7.0\Domain.dll
+C:\code\Reactivities3.0\Domain\bin\Debug\net7.0\Domain.pdb
+C:\code\Reactivities3.0\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\Reactivities3.0\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+C:\code\Reactivities3.0\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+C:\code\Reactivities3.0\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+C:\code\Reactivities3.0\Domain\obj\Debug\net7.0\Domain.sourcelink.json
+C:\code\Reactivities3.0\Domain\obj\Debug\net7.0\Domain.dll
+C:\code\Reactivities3.0\Domain\obj\Debug\net7.0\refint\Domain.dll
+C:\code\Reactivities3.0\Domain\obj\Debug\net7.0\Domain.pdb
+C:\code\Reactivities3.0\Domain\obj\Debug\net7.0\ref\Domain.dll
