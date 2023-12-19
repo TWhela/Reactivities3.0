@@ -400,3 +400,4 @@ C:\code\Reactivities3.0\API\obj\Debug\net7.0\ref\API.dll
 C:\code\Reactivities3.0\api\bin\Debug\net7.0\FluentValidation.dll
 C:\code\Reactivities3.0\api\bin\Debug\net7.0\FluentValidation.AspNetCore.dll
 C:\code\Reactivities3.0\api\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\code\Reactivities3.0\api\bin\Debug\net7.0\API.staticwebassets.runtime.json
