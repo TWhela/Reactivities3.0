@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'tw-reactivities'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9C1BE78F6739432180B801C649C1CD13 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_29AC7BDC7C334D95A26BF3E8FA870112 }}
           package: .
