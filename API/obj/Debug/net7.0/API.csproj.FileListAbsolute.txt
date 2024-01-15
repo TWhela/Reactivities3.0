@@ -403,3 +403,4 @@ C:\code\Reactivities3.0\api\bin\Debug\net7.0\FluentValidation.DependencyInjectio
 C:\code\Reactivities3.0\api\bin\Debug\net7.0\API.staticwebassets.runtime.json
 C:\code\Reactivities3.0\API\bin\Debug\net7.0\Npgsql.dll
 C:\code\Reactivities3.0\API\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\code\Reactivities3.0\API\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll

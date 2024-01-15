@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "wegWgyVEi5xxw+Zq9sQPXRz1vweszxlj34jNOBk8oe0=",
+  "Hash": "GHC+Jp66/xZU9wVc1nHYY+mybP2/4KDNS8iPo+zQwh0=",
   "Source": "API",
   "BasePath": "_content/API",
   "Mode": "Default",
@@ -357,6 +357,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\index-16a571aa.css"
+    },
+    {
+      "Identity": "C:\\code\\Reactivities3.0\\api\\wwwroot\\assets\\index-d1be937a.js",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\code\\Reactivities3.0\\api\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "assets/index-d1be937a.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\index-d1be937a.js"
     },
     {
       "Identity": "C:\\code\\Reactivities3.0\\api\\wwwroot\\assets\\index-d630e8f3.js",

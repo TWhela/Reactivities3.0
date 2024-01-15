@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ArpLjjfvhh/kNlMQkQVbWNEYNCvtHoVAfvQ57R8bbPWCp2S7mnMXeDpU5AoMSr1mcGXWaieUQwZcut/HyN7t8w==",
+  "dgSpecHash": "irFAg2u0Z9mO7IoZ1a7UeVcSnYBHYb7/j3nULdGOh64VmA9w3XrUAT7aPcrGSQlzgA5UiqdssXao3pWxNa81OA==",
   "success": true,
-  "projectFilePath": "C:\\code\\Reactivities3.0\\API\\API.csproj",
+  "projectFilePath": "C:\\code\\Reactivities3.0\\api\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ThomasWhelan\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\ThomasWhelan\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

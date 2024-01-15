@@ -57,3 +57,4 @@ C:\code\Reactivities3.0\Domain\obj\Debug\net7.0\Domain.dll
 C:\code\Reactivities3.0\Domain\obj\Debug\net7.0\refint\Domain.dll
 C:\code\Reactivities3.0\Domain\obj\Debug\net7.0\Domain.pdb
 C:\code\Reactivities3.0\Domain\obj\Debug\net7.0\ref\Domain.dll
+C:\code\Reactivities3.0\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
